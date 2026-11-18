@@ -1,0 +1,3 @@
+# The same samples are provided in github_shards/ for ordinary Git uploads.
+# Publish this local combined copy via a Release attachment or Git LFS instead.
+/sig53_fast_4090.h5
